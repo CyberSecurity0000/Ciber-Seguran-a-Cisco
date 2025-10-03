@@ -4,7 +4,7 @@ Repositório criado para organizar laboratórios e anotações desenvolvidas dur
 Aqui você vai encontrar exemplos práticos de configuração, comandos e testes feitos em ambiente simulado.
 
 ## 📂 Conteúdo
-- 🌐 **Topologias de Rede** – diagramas e arquivos de simulação (Packet Tracer/GNS3).
+- 🌐 **Topologias de Rede** – diagramas e arquivos de simulação (Packet Tracer).
 - ⚙️ **Configurações de Roteadores & Switches** – comandos básicos e avançados (CLI).
 - 🔐 **Segurança em Redes** – ACLs, VLANs, NAT, firewall básico.
 - 📡 **Protocolos** – DHCP, DNS, HTTP, FTP, SSH.
@@ -12,7 +12,6 @@ Aqui você vai encontrar exemplos práticos de configuração, comandos e testes
 
 ## 🛠️ Ferramentas utilizadas
 - Cisco Packet Tracer  
-- GNS3  
 - CLI (Command Line Interface) dos dispositivos  
 - Wireshark  
 
